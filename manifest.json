@@ -1,0 +1,30 @@
+{
+  "name": "LEAD TRACK — 30-Day Number Tracker",
+  "short_name": "LEAD TRACK",
+  "description": "Mobile-friendly Number Management & Tracking App with User & Agent sections, OCR Screenshot Extraction, and 30-Day IndexedDB History.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060d09",
+  "theme_color": "#060d09",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
